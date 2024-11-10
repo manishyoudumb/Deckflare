@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import { useState } from 'react';
 import localFont from "next/font/local";
 import "./globals.css";
 
