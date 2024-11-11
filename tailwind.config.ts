@@ -12,6 +12,12 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      spacing: {
+        '120': '30rem', // This would allow you to use right-120, which equals 120 * 4 = 480px
+      },
+      fontFamily: {
+        'InstrumentSheriff' : ['InstrumentSherif'],
+      }
     },
   },
   plugins: [],
