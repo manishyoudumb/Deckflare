@@ -9,6 +9,8 @@ export default function HomePage() {
           src="/logo.png"
           alt="Logo"
           className="h-auto w-auto max-h-[15rem] max-w-[6rem] mb-2 object-contain"
+          width={240} // Adjust width as per your requirement
+          height={60} // Adjust height as per your requirement
         />
       </div>
 
